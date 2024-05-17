@@ -4,4 +4,4 @@ project(datastructure)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(datastructure
-        NadaAhmed.cpp)
+        NadaAhmed.cpp AVLbyName.cpp)
